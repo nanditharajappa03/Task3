@@ -1,1 +1,1 @@
-this is a file in python lang
+this is a file in python language with .py extension
